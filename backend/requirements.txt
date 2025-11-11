@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+openai  # For OpenAI; or use requests for xAI
+python-dotenv
+aiohttp  # For async if needed

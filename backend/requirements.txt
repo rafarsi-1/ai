@@ -2,6 +2,7 @@ fastapi
 uvicorn
 sqlalchemy
 pydantic
-openai  # For OpenAI; or use requests for xAI
+openai
 python-dotenv
-aiohttp  # For async if needed
+aiohttp 
+

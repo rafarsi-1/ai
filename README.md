@@ -12,3 +12,5 @@ Deployment: Use Vercel for frontend, Render/Heroku for backend. For production D
 
 
 spesification cd to backend and install requirement.txt
+Download Node.js LTS
+MySQL (atau PostgreSQL, SQLite)
